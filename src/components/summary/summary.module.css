@@ -1,8 +1,18 @@
 
 .summarySection {
 
-    margin-left: 2rem;
+    background: white;
+    padding: 2.5rem;
+    padding-left: 2.8rem;
+    padding-top: 2.3rem;
+    z-index: -1;
+    border-radius: 20px;
+    box-shadow: 1px 1px 20px 0px rgba(0,0,0, 0.1);
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    transform: translateX(-15px);
 }
+
 
 .summary {
 

@@ -3,8 +3,10 @@
     outline: none;
     border: none;
     font-family: variableFont;
-    padding: 13px;
+    padding: .85rem;
     width: 14rem;
+    margin-top: 1.3rem;
+    
 }
 
 .primary{
