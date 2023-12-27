@@ -9,6 +9,7 @@ function Result() {
     <section className={styles["div-bg"]}>
    
     <p className={styles.result}>Your Result</p>
+    
     <Circle />
 
     <h2 className={styles.great}>Great</h2>

@@ -12,7 +12,7 @@ function Aspect({icon, score, category}) {
    <span >{category}</span>
 
   <span className={styles.scoreBox}>
-   <span className={styles.score}>{score}&nbsp;</span>
+   <span className={styles.score}>{score}&nbsp;&nbsp;</span>
 
    <span className={styles.total}>/&nbsp;100</span>
   

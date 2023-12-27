@@ -20,5 +20,29 @@
     font-family: mediumFont;
     font-size: 1.1rem;
     margin-bottom: 20px;
-
+    
 }
+
+
+
+/* Media Queries */
+
+@media screen and (max-width: 375px) {
+
+.summarySection {
+
+  box-shadow: none;
+  transform: translateX(0px);
+  margin: 0;
+  margin-right: auto;
+  padding-top: 1rem;
+
+
+    }
+
+.summary {
+
+    font-size: 1.3rem;
+}
+
+}  

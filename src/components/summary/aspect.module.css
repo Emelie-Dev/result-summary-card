@@ -75,3 +75,28 @@ margin-right: 8px;
     background:  hsla(234, 85%, 45%, 0.1);
     
 }
+
+
+
+/* Media Queries */
+
+@media screen and (max-width: 375px) {
+
+.elem {
+
+    width: 20rem;
+    font-size: 1.1rem;
+    padding: 15px;
+    margin-bottom: 1.2rem;
+
+    }
+
+.img {
+
+    width: 1.4rem;
+    height: 1.4rem;
+    margin-right: 12px;
+
+    }
+
+} 

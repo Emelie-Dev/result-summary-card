@@ -33,3 +33,32 @@ font-size: 0.9rem;
 text-align: center;
 width: 13rem;
 }
+
+/* Media Queries */
+
+@media screen and (max-width: 375px) {
+
+.div-bg {
+
+    width: 100vw;
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+    height: 22rem;
+    padding-top: 1rem;
+}
+
+.footerText {
+
+    width: auto;
+    font-size: 1rem;
+
+}
+
+.great {
+
+    font-size: 1.7rem;
+    
+}
+    
+
+}

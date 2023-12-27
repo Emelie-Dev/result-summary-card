@@ -7,3 +7,16 @@
     width: 100vw;
     height: 100vh;
 }
+
+/* Media Queries */
+
+@media screen and (max-width: 375px) {
+
+.main {
+
+align-items: flex-start;  
+flex-wrap: wrap;
+
+}
+    
+}

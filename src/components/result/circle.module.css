@@ -8,12 +8,13 @@
     align-items: center;
     margin: 25px;
     border-radius: 50%;
+    
 }
 
 .score {
 
     color: var(--white);
-    font-size: 3.5rem;
+    font-size: 4rem;
     font-family: extraboldFont;
 }
 
@@ -21,6 +22,22 @@
 
     font-family: variableFont;
     color: var(--light-lavender);
-    font-size: 14px;
+    font-size: 16px;
     opacity: 0.6;
+}
+
+
+/* Media Queries */
+
+@media screen and (max-width: 375px) {
+
+.circle {
+
+    width: 10rem;
+    margin: 25px auto;
+    margin-bottom: 15px;
+    height: 10rem;
+
+}
+
 }
