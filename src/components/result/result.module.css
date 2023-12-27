@@ -1,0 +1,35 @@
+
+.div-bg {
+
+    background: linear-gradient(var(--bg-slate-blue), var(--bg-royal-blue));
+    border-radius: 20px;
+    padding: 2.5rem;
+
+}
+
+.result {
+
+    color: var(--light-lavender);
+    font-family: mediumFont;
+    text-align: center;
+    font-size: 18px;
+    
+}
+
+.great {
+
+    text-align: center;
+    color: white;
+    font-family: boldFont;
+    opacity: 0.9;
+}
+
+.footerText {
+margin-top: 12px;
+color: var(--light-lavender);
+font-family: variableFont;
+opacity: 0.8;
+font-size: 0.9rem;
+text-align: center;
+width: 13rem;
+}

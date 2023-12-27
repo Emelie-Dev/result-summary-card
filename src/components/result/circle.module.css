@@ -1,0 +1,26 @@
+
+.circle {
+
+    background: linear-gradient(var(--cir-violet-blue), var(--cir-persian-blue));
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 25px;
+    border-radius: 50%;
+}
+
+.score {
+
+    color: var(--white);
+    font-size: 3.5rem;
+    font-family: extraboldFont;
+}
+
+.scoreTxt {
+
+    font-family: variableFont;
+    color: var(--light-lavender);
+    font-size: 14px;
+    opacity: 0.6;
+}

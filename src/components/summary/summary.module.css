@@ -1,0 +1,14 @@
+
+.summarySection {
+
+    margin-left: 2rem;
+}
+
+.summary {
+
+    color: var(--dark-gray-blue);
+    font-family: mediumFont;
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+
+}

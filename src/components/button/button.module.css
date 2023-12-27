@@ -1,0 +1,13 @@
+.button{
+    border-radius: 50px;
+    outline: none;
+    border: none;
+    font-family: variableFont;
+    padding: 13px;
+    width: 14rem;
+}
+
+.primary{
+    background: var(--dark-gray-blue);
+    color: var(--pale-blue);
+}

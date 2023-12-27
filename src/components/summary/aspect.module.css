@@ -1,0 +1,77 @@
+
+.elem {
+
+    display: flex;
+    align-items: center;
+    margin-bottom: 13px;
+    border-radius: 5px;
+    padding: 12px;
+    font-size: 0.85rem;
+    width: 14rem;
+}
+
+.img {
+
+width: 1rem;
+height: 1rem;
+margin-right: 8px;
+}
+
+.scoreBox {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+   
+}
+
+.score {
+
+    color: var(--dark-gray-blue);
+   font-family: extraboldFont;
+
+}
+
+.total {
+
+ color: hsl(224, 30%, 27%, 0.6);
+
+}
+
+ .Reaction {
+
+    color: var(--light-red);
+    font-weight: 700;
+    font-family:  variableFont;
+    background: hsla(0, 100%, 67%, 0.1);
+
+}
+
+.Memory {
+
+    color: var(--orangey-yellow);
+    font-weight: 700;
+    font-family:  variableFont;
+    background: hsla(39, 100%, 56%, 0.1);
+    
+}
+
+
+.Verbal {
+
+    color: var(--green-teal);
+    font-weight: 700;
+    font-family:  variableFont;
+    background: hsla(166, 100%, 37%, 0.1);
+    
+}
+
+.Visual {
+
+    color: var(--cobalt-blue);
+    font-weight: 700;
+    font-family:  variableFont;
+    background:  hsla(234, 85%, 45%, 0.1);
+    
+}
