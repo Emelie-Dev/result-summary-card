@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./src/design/desktop-design.jpg)
+![Screenshot](./src/assets/images/Screenshot%202023-12-28%20at%2020-34-03%20Result%20summmary%20card.png)
 
 ### Links
 
