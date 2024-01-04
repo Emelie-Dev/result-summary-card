@@ -5,13 +5,12 @@
     padding: 2.5rem;
     padding-left: 2.8rem;
     padding-top: 1.75rem;
-    z-index: -1;
     border-radius: 20px;
     box-shadow: 1px 1px 20px 0px rgba(0,0,0, 0.1);
     border-top-left-radius: 0px;
     border-bottom-left-radius: 0px;
     transform: translateX(-15px);
-
+    /* z-index: -1; */
     
 }
 
@@ -53,7 +52,7 @@
     box-shadow: none;
     padding: 0;
     padding-top: 1.3rem;
-    padding-left: 1rem;
+    padding-left: 0.8rem;
     padding-bottom: 0;
     
     }

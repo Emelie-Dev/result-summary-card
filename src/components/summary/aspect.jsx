@@ -5,7 +5,7 @@ function Aspect({icon, score, category}) {
 
  return(
     
-    <div className={`${styles.elem} ${styles[category]}`}>
+    <div className={`${styles.elem} ${styles[category]}`} >
    
    <img className={styles.img} src={icon} />
 

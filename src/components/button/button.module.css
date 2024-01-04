@@ -7,14 +7,20 @@
     padding: .85rem;
     width: 14rem;
     margin-top: 1.3rem;
-    
+   
 }
 
-.primary{
+.primary {
+
     background: var(--dark-gray-blue);
     color: var(--pale-blue);
 }
 
+.button:hover, .button:focus {
+
+    cursor: pointer;
+    opacity: 0.8;
+}
 
 /* Media Queries */
 
@@ -41,7 +47,7 @@
         width: 15rem;
         margin-bottom: 30px;
         font-family: mediumFont;
-        margin-left: 3px;
+        margin-left: 0;
         padding: 0.8rem;
         margin-top: 1rem;
 
