@@ -10,13 +10,39 @@
 
 /* Media Queries */
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 700px) and (min-width: 400px) {
 
-.main {
+    .main {
 
-align-items: flex-start;  
-flex-wrap: wrap;
+        flex-direction: column;
+        justify-content: flex-start;
+        
+    }
 
 }
+
+
+@media screen and (max-width: 399px) and (min-width: 281px) {
+
+    .main {
+
+        flex-direction: column;
+        justify-content: flex-start;
+        overflow-x: hidden;
+    }
+
+}
+
+@media screen and (max-width: 280px)  {
+
+    .main {
+
+        flex-direction: column;
+        justify-content: flex-start;
+        overflow-x: hidden;
+        
+    }
+
+    
     
 }

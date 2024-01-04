@@ -1,4 +1,5 @@
-.button{
+.button {
+
     border-radius: 50px;
     outline: none;
     border: none;
@@ -17,14 +18,47 @@
 
 /* Media Queries */
 
-@media screen and (max-width: 375px) {
 
- .button {
+@media screen and (max-width: 700px) and (min-width: 400px) {
 
-    width: 100%;
-    font-size: 1.2rem;
-    padding: 1rem;
+    .button { 
+        font-size: 1.1rem;
+        width: 18rem;
+        margin-bottom: 30px;
+        font-family: mediumFont;
+        margin-left: 8px;
+        padding: 0.9rem;
 
- }
+    }
 
-} 
+    }
+
+
+@media screen and (max-width: 399px) and (min-width: 281px) {
+
+    .button { 
+        font-size: 0.95rem;
+        width: 15rem;
+        margin-bottom: 30px;
+        font-family: mediumFont;
+        margin-left: 3px;
+        padding: 0.8rem;
+        margin-top: 1rem;
+
+    }
+
+    }
+    
+@media screen and (max-width: 280px)  {
+
+    .button { 
+       
+        width: 14rem;
+        margin-bottom: 30px;
+        font-family: mediumFont;
+        margin-left: 8px;
+        padding: 0.9rem;
+        margin-top: 0.7rem;
+    }
+
+    }
