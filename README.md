@@ -30,13 +30,14 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Emelie-Dev/result-summary-card
-- Live Site URL: https://your-live-site-url.com
+- Live Site URL: https://godfather-result-summary-card.netlify.app
 
 ## My process
 
 ### Built with
 - [React](https://reactjs.org/) - JS library
 - CSS Modules - For styles
+
 
 
 ### What I learned
